@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #f0f0f0;
+}
+
+#quadrado {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  position: absolute;
+  cursor: pointer;
+  border-radius: 10px;
+}
+
+#mensagem {
+  font-size: 24px;
+  margin-top: 20px;
+  color: darkred;
+}
+
+#reiniciar {
+  padding: 10px 20px;
+  font-size: 16px;
+  margin-top: 20px;
+  cursor: pointer;
+}
